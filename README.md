@@ -80,7 +80,7 @@ Built a hands-on SOC lab focused on investigating security alerts, reviewing log
 
 ### 2. Vulnerability Management Home Lab
 **Focus:** Vulnerability Scanning | Risk Prioritization | Remediation Tracking  
-**Project Link:** [Paste your GitHub project link here](PASTE_YOUR_PROJECT_LINK_HERE)
+**Project Link:** [https://github.com/MartinAmofaBoadu/Vulnerability-Management-Home-Lab](https://github.com/MartinAmofaBoadu/Vulnerability-Management-Home-Lab)
 
 Created a home lab to simulate vulnerability assessment and remediation workflows. Performed scans on test systems, reviewed findings, prioritized issues based on risk, and documented remediation recommendations.
 

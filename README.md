@@ -66,7 +66,7 @@ I am **CompTIA Security+ certified** and actively building my career in:
 
 ### 1. SOC Alert Triage Lab
 **Focus:** Security Monitoring | Incident Triage | Log Analysis  
-**Project Link:** [Paste your GitHub project link here](PASTE_YOUR_PROJECT_LINK_HERE)
+**Project Link:** [https://github.com/MartinAmofaBoadu/SOC-Alert-Triage-Lab/tree/main](https://github.com/MartinAmofaBoadu/SOC-Alert-Triage-Lab/tree/main)
 
 Built a hands-on SOC lab focused on investigating security alerts, reviewing logs, and documenting findings in a structured way. Practiced identifying suspicious activity, analyzing indicators, and escalating incidents based on severity and impact.
 

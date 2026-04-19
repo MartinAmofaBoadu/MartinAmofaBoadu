@@ -136,7 +136,7 @@ Documented common IT support tasks such as Windows installation, driver setup, p
 
 ### 6. Identity and Access Management Mini Project
 **Focus:** IAM | Access Control | MFA | User Account Security  
-**Project Link:** [Paste your GitHub project link here](PASTE_YOUR_PROJECT_LINK_HERE)
+**Project Link:** [https://github.com/MartinAmofaBoadu/Identity-and-Access-Management-Mini-Project](https://github.com/MartinAmofaBoadu/Identity-and-Access-Management-Mini-Project)
 
 Built a small project around identity and access management concepts, including user provisioning, role-based access ideas, least privilege, password hygiene, and MFA enforcement practices.
 

@@ -108,7 +108,7 @@ Worked on a practical project centered on monitoring Windows event logs to ident
 
 ### 4. SQL Data Validation & Reporting Project
 **Focus:** SQL | Data Accuracy | Reporting Automation  
-**Project Link:** [Paste your GitHub project link here](PASTE_YOUR_PROJECT_LINK_HERE)
+**Project Link:** [https://github.com/MartinAmofaBoadu/SQL-Data-Validation-Reporting-Project](https://github.com/MartinAmofaBoadu/SQL-Data-Validation-Reporting-Project)
 
 Developed a project using SQL to clean, validate, and analyze operational data, then produced structured outputs for reporting and decision-making. This project reflects my strength in working with records accuracy, structured data, and traceable reporting.
 

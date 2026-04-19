@@ -1,16 +1,265 @@
-## Hi there 👋
+<h1 align="center">Martin Amofa Boadu</h1>
+<h3 align="center">Aspiring SOC Analyst | Junior Cybersecurity Analyst | Security Operations | IT Support</h3>
 
-<!--
-**MartinAmofaBoadu/MartinAmofaBoadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:martinamofa6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-8B0000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ing-martin-amofa-boadu-4932a141/">
+    <img src="https://img.shields.io/badge/LinkedIn-Martin_Amofa_Boadu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Prague,_Czech_Republic-111111?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Certified-CompTIA_Security%2B-222222?style=for-the-badge&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Focused_on-SOC_Operations-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focused_on-Incident_Response-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focused_on-Log_Analysis-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focused_on-Vulnerability_Management-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focused_on-IAM-111111?style=flat-square" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I am a **detail-oriented cybersecurity professional transitioning from IT support, data operations, and internal audit into Security Operations**.
+
+My background combines **technical troubleshooting**, **data validation**, **SQL reporting**, **compliance checks**, **documentation**, and **business system support**. This gives me a practical foundation for environments where **accuracy, visibility, incident awareness, and reliable records** matter.
+
+I am **CompTIA Security+ certified** and actively building my career in:
+
+- **Security monitoring**
+- **Incident response support**
+- **Identity and access management**
+- **Vulnerability management**
+- **Log review and analysis**
+- **Operational security documentation**
+
+---
+
+## Featured Projects
+
+<p>
+  Below are selected projects that reflect my practical skills in security operations, log analysis, vulnerability management, IT support, SQL reporting, and technical documentation.
+</p>
+
+### 1. SOC Alert Triage Lab
+**Focus:** Security Monitoring | Incident Triage | Log Analysis  
+**Project Link:** [Paste your GitHub project link here](PASTE_YOUR_LINK_HERE)
+
+Built a hands-on SOC lab focused on investigating security alerts, reviewing logs, and documenting findings in a structured way. Practiced identifying suspicious activity, analyzing indicators, and escalating incidents based on severity and impact.
+
+**What this demonstrates:**
+- Alert triage and investigation
+- Log review and analysis
+- Incident documentation
+- Security operations workflow understanding
+
+---
+
+### 2. Vulnerability Management Home Lab
+**Focus:** Vulnerability Scanning | Risk Prioritization | Remediation Tracking  
+**Project Link:** [Paste your GitHub project link here](PASTE_YOUR_LINK_HERE)
+
+Created a home lab to simulate vulnerability assessment and remediation workflows. Performed scans on test systems, reviewed findings, prioritized issues based on risk, and documented remediation recommendations.
+
+**What this demonstrates:**
+- Vulnerability identification
+- Risk-based prioritization
+- Remediation tracking
+- Security reporting and documentation
+
+---
+
+### 3. Windows Security Monitoring Project
+**Focus:** Windows Security Events | Event Log Review | Threat Detection  
+**Project Link:** [Paste your GitHub project link here](PASTE_YOUR_LINK_HERE)
+
+Worked on a practical project centered on monitoring Windows event logs to identify suspicious login attempts, failed authentication patterns, account activity, and other security-relevant events.
+
+**What this demonstrates:**
+- Windows event log analysis
+- Detection of suspicious activity
+- Basic threat hunting mindset
+- Security monitoring fundamentals
+
+---
+
+### 4. SQL Data Validation & Reporting Project
+**Focus:** SQL | Data Accuracy | Reporting Automation  
+**Project Link:** [Paste your GitHub project link here](PASTE_YOUR_LINK_HERE)
+
+Developed a project using SQL to clean, validate, and analyze operational data, then produced structured outputs for reporting and decision-making. This project reflects my strength in working with records accuracy, structured data, and traceable reporting.
+
+**What this demonstrates:**
+- SQL querying and analysis
+- Data validation
+- Reporting accuracy
+- Analytical problem-solving
+
+---
+
+### 5. IT Support & System Setup Documentation Project
+**Focus:** IT Support | Windows Setup | Troubleshooting Documentation  
+**Project Link:** [Paste your GitHub project link here](PASTE_YOUR_LINK_HERE)
+
+Documented common IT support tasks such as Windows installation, driver setup, printer troubleshooting, software installation, and connectivity issue resolution. Organized the project as a practical support knowledge base.
+
+**What this demonstrates:**
+- Technical troubleshooting
+- Windows system setup
+- User support readiness
+- Clear technical documentation
+
+---
+
+### 6. Identity and Access Management Mini Project
+**Focus:** IAM | Access Control | MFA | User Account Security  
+**Project Link:** [Paste your GitHub project link here](PASTE_YOUR_LINK_HERE)
+
+Built a small project around identity and access management concepts, including user provisioning, role-based access ideas, least privilege, password hygiene, and MFA enforcement practices.
+
+**What this demonstrates:**
+- IAM fundamentals
+- Access control awareness
+- Security best practices
+- Governance-minded thinking
+
+---
+
+## Professional Value
+
+What I bring to a security team:
+
+- A strong foundation in **technical support and issue resolution**
+- Experience maintaining **accurate operational records and reporting outputs**
+- A methodical mindset shaped by **audit, compliance, and control-checking work**
+- Practical experience working with **Windows systems, SQL, Excel, reporting, and documentation**
+- A high level of readiness to ramp into tools such as **Microsoft Sentinel** and **Microsoft Defender**
+
+---
+
+## Core Skills
+
+### Cybersecurity
+<p>
+  <img src="https://img.shields.io/badge/Security_Operations-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Incident_Response_Support-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Identity_%26_Access_Management-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vulnerability_Management-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Log_Review-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Access_Control-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MFA-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Security_Awareness-0d1117?style=for-the-badge" />
+</p>
+
+### IT Support
+<p>
+  <img src="https://img.shields.io/badge/Hardware_Troubleshooting-161b22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software_Installation-161b22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Windows_Setup-161b22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Driver_Configuration-161b22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Printer_Support-161b22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Connectivity_Troubleshooting-161b22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/User_Support-161b22?style=for-the-badge" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/SQL-1f2937?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-1f2937?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-1f2937?style=for-the-badge&logo=powerbi&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_Synapse-1f2937?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP_Data_Extracts-1f2937?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reporting_Automation-1f2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Documentation-1f2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Asset_Tracking-1f2937?style=for-the-badge" />
+</p>
+
+---
+
+## Experience Snapshot
+
+### **Junior Data Support & Warehouse Operations**  
+**DHL Amazon VEFO (via Hofmann-Personal Agency), Prague, Czech Republic**  
+*Aug 2024 – Present*
+
+- Monitor and validate **1,000+ daily operational records**
+- Improve **data accuracy**, **reporting consistency**, and **downstream system reliability**
+- Identify operational data inconsistencies and support remediation of reporting exceptions
+- Maintain standardized outputs and traceable records used for **decision-making** and **compliance checks**
+
+### **Part-Time IT Support Assistant**  
+**Computer Service, Hradec Kralove, Czech Republic**  
+*Oct 2022 – Jun 2023*
+
+- Delivered first-line support for **hardware, software, printers, laptops, and connectivity issues**
+- Installed, configured, and maintained **Windows systems**, applications, drivers, and user settings
+- Built practical experience in **IT operations**, troubleshooting, and security-conscious support
+
+### **Internal Audit Assistant**  
+**Internal Audit Agency, Accra, Ghana**  
+*Sep 2020 – Oct 2022*
+
+- Automated collection and validation of procurement and financial datasets using **Excel** and **SQL**
+- Reduced manual effort by **30%**
+- Tracked **risk indicators**, **audit findings**, **issue ownership**, and **remediation actions**
+- Reinforced **documentation quality**, **governance practices**, and **control-checking discipline**
+
+---
+
+## Education
+
+### **Joint Master's Degree, Regional Development & Governance**  
+**University of Pardubice, Czech Republic / Vilnius University, Lithuania**  
+*2022 – 2024*
+
+### **Bachelor of Arts, Sociology**  
+**University of Ghana**  
+*2014 – 2018*
+
+---
+
+## Certifications
+
+- **CompTIA Security+ (SY0-701)** — Apr 2026 to Apr 2029
+- **Google Data Analytics Professional Certificate** — Oct 2025
+- **Power BI Fundamentals & DAX** — Aug 2025
+- **Modern Data Warehouse Analytics (Azure)** — Oct 2025
+
+---
+
+## Current Direction
+
+I am actively strengthening my capabilities in:
+
+- **SOC workflows**
+- **Threat detection fundamentals**
+- **Incident handling**
+- **Security tooling**
+- **Blue Team practices**
+- **Microsoft Sentinel and Microsoft Defender**
+
+My goal is to contribute to a security team where I can support **monitoring, triage, documentation, and response activities** while continuing to grow into a high-performing SOC Analyst.
+
+---
+
+## Connect With Me
+
+<p>
+  <a href="mailto:martinamofa6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-martinamofa6%40gmail.com-8B0000?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ing-martin-amofa-boadu-4932a141/">
+    <img src="https://img.shields.io/badge/LinkedIn-ing--martin--amofa--boadu--4932a141-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Open to SOC Analyst, Junior Cybersecurity Analyst, and Blue Team opportunities.</b>
+</p>

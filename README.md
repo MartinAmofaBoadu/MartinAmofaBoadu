@@ -122,7 +122,7 @@ Developed a project using SQL to clean, validate, and analyze operational data, 
 
 ### 5. IT Support & System Setup Documentation Project
 **Focus:** IT Support | Windows Setup | Troubleshooting Documentation  
-**Project Link:** [Paste your GitHub project link here](PASTE_YOUR_PROJECT_LINK_HERE)
+**Project Link:** [https://github.com/MartinAmofaBoadu/IT-Support-System-Setup-Documentation-Project](https://github.com/MartinAmofaBoadu/IT-Support-System-Setup-Documentation-Project)
 
 Documented common IT support tasks such as Windows installation, driver setup, printer troubleshooting, software installation, and connectivity issue resolution. Organized the project as a practical support knowledge base.
 

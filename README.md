@@ -5,11 +5,30 @@
   <a href="mailto:martinamofa6@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-8B0000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="tel:+420774298535">
+    <img src="https://img.shields.io/badge/Phone-%2B420774298535-1f2937?style=for-the-badge&logo=googlevoice&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/ing-martin-amofa-boadu-4932a141/">
     <img src="https://img.shields.io/badge/LinkedIn-Martin_Amofa_Boadu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Prague,_Czech_Republic-111111?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Certified-CompTIA_Security%2B-222222?style=for-the-badge&logoColor=white" />
+  <a href="https://www.google.com/maps/search/?api=1&query=Na+B%C5%99evnovsk%C3%A9+pl%C3%A1ni+1975%2F73%2C+Prague%2C+Czech+Republic">
+    <img src="https://img.shields.io/badge/Location-Prague,_Czech_Republic-111111?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/c3eb2e64-a7cf-4995-9533-711a3709957c/linked_in_profile">
+    <img src="https://img.shields.io/badge/CompTIA-Security%2B-222222?style=for-the-badge&logo=comptia&logoColor=white" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/1MH97Z2LUQPB">
+    <img src="https://img.shields.io/badge/Google-Data_Analytics-0f766e?style=for-the-badge&logo=coursera&logoColor=white" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/QN3YKJ1XFWZ1">
+    <img src="https://img.shields.io/badge/Power_BI-Fundamentals_%26_DAX-f59e0b?style=for-the-badge&logo=powerbi&logoColor=black" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/W3KXNHWKK0S2">
+    <img src="https://img.shields.io/badge/Microsoft_Azure-Modern_Data_Warehouse-2563eb?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
@@ -32,7 +51,7 @@ I am **CompTIA Security+ certified** and actively building my career in:
 
 - **Security monitoring**
 - **Incident response support**
-- **Identity and access management**
+- **Identity and Access Management (IAM)**
 - **Vulnerability management**
 - **Log review and analysis**
 - **Operational security documentation**
@@ -47,7 +66,7 @@ I am **CompTIA Security+ certified** and actively building my career in:
 
 ### 1. SOC Alert Triage Lab
 **Focus:** Security Monitoring | Incident Triage | Log Analysis  
-**Project Link:** [Paste your GitHub project link here](PASTE_YOUR_LINK_HERE)
+**Project Link:** [Paste your GitHub project link here](PASTE_YOUR_PROJECT_LINK_HERE)
 
 Built a hands-on SOC lab focused on investigating security alerts, reviewing logs, and documenting findings in a structured way. Practiced identifying suspicious activity, analyzing indicators, and escalating incidents based on severity and impact.
 
@@ -61,7 +80,7 @@ Built a hands-on SOC lab focused on investigating security alerts, reviewing log
 
 ### 2. Vulnerability Management Home Lab
 **Focus:** Vulnerability Scanning | Risk Prioritization | Remediation Tracking  
-**Project Link:** [Paste your GitHub project link here](PASTE_YOUR_LINK_HERE)
+**Project Link:** [Paste your GitHub project link here](PASTE_YOUR_PROJECT_LINK_HERE)
 
 Created a home lab to simulate vulnerability assessment and remediation workflows. Performed scans on test systems, reviewed findings, prioritized issues based on risk, and documented remediation recommendations.
 
@@ -75,7 +94,7 @@ Created a home lab to simulate vulnerability assessment and remediation workflow
 
 ### 3. Windows Security Monitoring Project
 **Focus:** Windows Security Events | Event Log Review | Threat Detection  
-**Project Link:** [Paste your GitHub project link here](PASTE_YOUR_LINK_HERE)
+**Project Link:** [Paste your GitHub project link here](PASTE_YOUR_PROJECT_LINK_HERE)
 
 Worked on a practical project centered on monitoring Windows event logs to identify suspicious login attempts, failed authentication patterns, account activity, and other security-relevant events.
 
@@ -89,7 +108,7 @@ Worked on a practical project centered on monitoring Windows event logs to ident
 
 ### 4. SQL Data Validation & Reporting Project
 **Focus:** SQL | Data Accuracy | Reporting Automation  
-**Project Link:** [Paste your GitHub project link here](PASTE_YOUR_LINK_HERE)
+**Project Link:** [Paste your GitHub project link here](PASTE_YOUR_PROJECT_LINK_HERE)
 
 Developed a project using SQL to clean, validate, and analyze operational data, then produced structured outputs for reporting and decision-making. This project reflects my strength in working with records accuracy, structured data, and traceable reporting.
 
@@ -103,7 +122,7 @@ Developed a project using SQL to clean, validate, and analyze operational data, 
 
 ### 5. IT Support & System Setup Documentation Project
 **Focus:** IT Support | Windows Setup | Troubleshooting Documentation  
-**Project Link:** [Paste your GitHub project link here](PASTE_YOUR_LINK_HERE)
+**Project Link:** [Paste your GitHub project link here](PASTE_YOUR_PROJECT_LINK_HERE)
 
 Documented common IT support tasks such as Windows installation, driver setup, printer troubleshooting, software installation, and connectivity issue resolution. Organized the project as a practical support knowledge base.
 
@@ -117,7 +136,7 @@ Documented common IT support tasks such as Windows installation, driver setup, p
 
 ### 6. Identity and Access Management Mini Project
 **Focus:** IAM | Access Control | MFA | User Account Security  
-**Project Link:** [Paste your GitHub project link here](PASTE_YOUR_LINK_HERE)
+**Project Link:** [Paste your GitHub project link here](PASTE_YOUR_PROJECT_LINK_HERE)
 
 Built a small project around identity and access management concepts, including user provisioning, role-based access ideas, least privilege, password hygiene, and MFA enforcement practices.
 
@@ -225,10 +244,10 @@ What I bring to a security team:
 
 ## Certifications
 
-- **CompTIA Security+ (SY0-701)** — Apr 2026 to Apr 2029
-- **Google Data Analytics Professional Certificate** — Oct 2025
-- **Power BI Fundamentals & DAX** — Aug 2025
-- **Modern Data Warehouse Analytics (Azure)** — Oct 2025
+- [**CompTIA Security+ (SY0-701)**](https://www.credly.com/badges/c3eb2e64-a7cf-4995-9533-711a3709957c/linked_in_profile) — Apr 2026 to Apr 2029
+- [**Google Data Analytics Professional Certificate**](https://www.coursera.org/account/accomplishments/specialization/1MH97Z2LUQPB) — Oct 2025
+- [**Power BI Fundamentals & DAX**](https://www.coursera.org/account/accomplishments/verify/QN3YKJ1XFWZ1) — Aug 2025
+- [**Modern Data Warehouse Analytics in Microsoft Azure**](https://www.coursera.org/account/accomplishments/verify/W3KXNHWKK0S2) — Oct 2025
 
 ---
 
@@ -253,8 +272,14 @@ My goal is to contribute to a security team where I can support **monitoring, tr
   <a href="mailto:martinamofa6@gmail.com">
     <img src="https://img.shields.io/badge/Email-martinamofa6%40gmail.com-8B0000?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+  <a href="tel:+420774298535">
+    <img src="https://img.shields.io/badge/Phone-%2B420774298535-1f2937?style=flat-square&logo=googlevoice&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/ing-martin-amofa-boadu-4932a141/">
     <img src="https://img.shields.io/badge/LinkedIn-ing--martin--amofa--boadu--4932a141-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.google.com/maps/search/?api=1&query=Na+B%C5%99evnovsk%C3%A9+pl%C3%A1ni+1975%2F73%2C+Prague%2C+Czech+Republic">
+    <img src="https://img.shields.io/badge/Address-Prague-111111?style=flat-square&logo=googlemaps&logoColor=white" />
   </a>
 </p>
 

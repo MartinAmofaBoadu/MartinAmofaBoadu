@@ -94,7 +94,7 @@ Created a home lab to simulate vulnerability assessment and remediation workflow
 
 ### 3. Windows Security Monitoring Project
 **Focus:** Windows Security Events | Event Log Review | Threat Detection  
-**Project Link:** [Paste your GitHub project link here](PASTE_YOUR_PROJECT_LINK_HERE)
+**Project Link:** [https://github.com/MartinAmofaBoadu/Windows-Security-Monitoring-Project](https://github.com/MartinAmofaBoadu/Windows-Security-Monitoring-Project)
 
 Worked on a practical project centered on monitoring Windows event logs to identify suspicious login attempts, failed authentication patterns, account activity, and other security-relevant events.
 

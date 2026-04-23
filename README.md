@@ -106,45 +106,37 @@ Worked on a practical project centered on monitoring Windows event logs to ident
 
 ---
 
-### 4. SQL Data Validation & Reporting Project
-**Focus:** SQL | Data Accuracy | Reporting Automation  
-**Project Link:** [https://github.com/MartinAmofaBoadu/SQL-Data-Validation-Reporting-Project](https://github.com/MartinAmofaBoadu/SQL-Data-Validation-Reporting-Project)
+### 4. Microsoft Sentinel SOC & SIEM Hands-On Project
 
-Developed a project using SQL to clean, validate, and analyze operational data, then produced structured outputs for reporting and decision-making. This project reflects my strength in working with records accuracy, structured data, and traceable reporting.
+Focus: Microsoft Sentinel | SIEM | Threat Detection | Incident Response
+Project Link: https://github.com/yourusername/Microsoft-Sentinel-SOC-SIEM-Project
 
-**What this demonstrates:**
-- SQL querying and analysis
-- Data validation
-- Reporting accuracy
-- Analytical problem-solving
+Designed and built a hands-on Microsoft Sentinel project to simulate real-world SOC operations in a cloud-native SIEM environment. The project includes data connector configuration, log monitoring, analytics rule creation, incident investigation, KQL-based threat hunting, watchlist usage, workbook visualization, and basic automation concepts. It was structured as a practical cybersecurity lab to demonstrate end-to-end detection and response skills relevant to SOC analyst and security operations roles.
 
----
+What this demonstrates:
 
-### 5. IT Support & System Setup Documentation Project
-**Focus:** IT Support | Windows Setup | Troubleshooting Documentation  
-**Project Link:** [https://github.com/MartinAmofaBoadu/IT-Support-System-Setup-Documentation-Project](https://github.com/MartinAmofaBoadu/IT-Support-System-Setup-Documentation-Project)
+Microsoft Sentinel setup and administration
+SIEM monitoring and alert investigation
+KQL query writing and threat hunting
+Incident analysis and response workflow
+Practical SOC analyst readiness
 
-Documented common IT support tasks such as Windows installation, driver setup, printer troubleshooting, software installation, and connectivity issue resolution. Organized the project as a practical support knowledge base.
+Here is a slightly stronger version for recruiter impact:
 
-**What this demonstrates:**
-- Technical troubleshooting
-- Windows system setup
-- User support readiness
-- Clear technical documentation
+6. Microsoft Sentinel SOC & SIEM Hands-On Project
 
----
+Focus: Microsoft Sentinel | SIEM | Threat Detection | Incident Response
+Project Link: https://github.com/yourusername/Microsoft-Sentinel-SOC-SIEM-Project
 
-### 6. Identity and Access Management Mini Project
-**Focus:** IAM | Access Control | MFA | User Account Security  
-**Project Link:** [https://github.com/MartinAmofaBoadu/Identity-and-Access-Management-Mini-Project](https://github.com/MartinAmofaBoadu/Identity-and-Access-Management-Mini-Project)
+Developed a hands-on Microsoft Sentinel lab project to showcase practical SOC and SIEM skills in a cloud security environment. Configured data ingestion, explored logs, created detection rules, investigated alerts and incidents, performed KQL-based threat hunting, and documented the workflow in a clear, portfolio-ready format. This project reflects my ability to work with Microsoft security tools and apply security monitoring and incident response concepts in a structured, real-world scenario.
 
-Built a small project around identity and access management concepts, including user provisioning, role-based access ideas, least privilege, password hygiene, and MFA enforcement practices.
+What this demonstrates:
 
-**What this demonstrates:**
-- IAM fundamentals
-- Access control awareness
-- Security best practices
-- Governance-minded thinking
+Hands-on experience with Microsoft Sentinel
+SIEM configuration and security monitoring
+Alert triage and incident investigation
+KQL-based log analysis and hunting
+Readiness for SOC analyst responsibilities
 
 ---
 

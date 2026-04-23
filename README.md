@@ -109,7 +109,7 @@ Worked on a practical project centered on monitoring Windows event logs to ident
 ### 4. Microsoft Sentinel SOC & SIEM Hands-On Project
 
 Focus: Microsoft Sentinel | SIEM | Threat Detection | Incident Response
-Project Link: https://github.com/yourusername/Microsoft-Sentinel-SOC-SIEM-Project
+Project Link: https://github.com/MartinAmofaBoadu/Microsoft-Sentinel-SOC-SIEM-Hands-On-Project/tree/main
 
 Designed and built a hands-on Microsoft Sentinel project to simulate real-world SOC operations in a cloud-native SIEM environment. The project includes data connector configuration, log monitoring, analytics rule creation, incident investigation, KQL-based threat hunting, watchlist usage, workbook visualization, and basic automation concepts. It was structured as a practical cybersecurity lab to demonstrate end-to-end detection and response skills relevant to SOC analyst and security operations roles.
 
@@ -126,7 +126,7 @@ Here is a slightly stronger version for recruiter impact:
 6. Microsoft Sentinel SOC & SIEM Hands-On Project
 
 Focus: Microsoft Sentinel | SIEM | Threat Detection | Incident Response
-Project Link: https://github.com/yourusername/Microsoft-Sentinel-SOC-SIEM-Project
+Project Link: https:https://github.com/MartinAmofaBoadu/Microsoft-Sentinel-SOC-SIEM-Hands-On-Project/tree/main
 
 Developed a hands-on Microsoft Sentinel lab project to showcase practical SOC and SIEM skills in a cloud security environment. Configured data ingestion, explored logs, created detection rules, investigated alerts and incidents, performed KQL-based threat hunting, and documented the workflow in a clear, portfolio-ready format. This project reflects my ability to work with Microsoft security tools and apply security monitoring and incident response concepts in a structured, real-world scenario.
 

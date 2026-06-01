@@ -64,21 +64,10 @@ I am **CompTIA Security+ certified** and actively building my career in:
   Below are selected projects that reflect my practical skills in security operations, log analysis, vulnerability management, IT support, SQL reporting, and technical documentation.
 </p>
 
-### 1. SOC Alert Triage Lab
-**Focus:** Security Monitoring | Incident Triage | Log Analysis  
-**Project Link:** [https://github.com/MartinAmofaBoadu/SOC-Alert-Triage-Lab/tree/main](https://github.com/MartinAmofaBoadu/SOC-Alert-Triage-Lab/tree/main)
-
-Built a hands-on SOC lab focused on investigating security alerts, reviewing logs, and documenting findings in a structured way. Practiced identifying suspicious activity, analyzing indicators, and escalating incidents based on severity and impact.
-
-**What this demonstrates:**
-- Alert triage and investigation
-- Log review and analysis
-- Incident documentation
-- Security operations workflow understanding
 
 ---
 
-### 2. Vulnerability Management Home Lab
+### 1. Vulnerability Management Home Lab
 **Focus:** Vulnerability Scanning | Risk Prioritization | Remediation Tracking  
 **Project Link:** [https://github.com/MartinAmofaBoadu/Vulnerability-Management-Home-Lab](https://github.com/MartinAmofaBoadu/Vulnerability-Management-Home-Lab)
 
@@ -92,21 +81,7 @@ Created a home lab to simulate vulnerability assessment and remediation workflow
 
 ---
 
-### 3. Windows Security Monitoring Project
-**Focus:** Windows Security Events | Event Log Review | Threat Detection  
-**Project Link:** [https://github.com/MartinAmofaBoadu/Windows-Security-Monitoring-Project](https://github.com/MartinAmofaBoadu/Windows-Security-Monitoring-Project)
-
-Worked on a practical project centered on monitoring Windows event logs to identify suspicious login attempts, failed authentication patterns, account activity, and other security-relevant events.
-
-**What this demonstrates:**
-- Windows event log analysis
-- Detection of suspicious activity
-- Basic threat hunting mindset
-- Security monitoring fundamentals
-
----
-
-### 4. Microsoft Sentinel SOC & SIEM Hands-On Project
+### 2. Microsoft Sentinel SOC & SIEM Hands-On Project
 
 Focus: Microsoft Sentinel | SIEM | Threat Detection | Incident Response
 Project Link: https://github.com/MartinAmofaBoadu/Microsoft-Sentinel-SOC-SIEM-Hands-On-Project/tree/main

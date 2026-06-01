@@ -121,12 +121,6 @@ KQL query writing and threat hunting
 Incident analysis and response workflow
 Practical SOC analyst readiness
 
-Here is a slightly stronger version for recruiter impact:
-
-6. Microsoft Sentinel SOC & SIEM Hands-On Project
-
-Focus: Microsoft Sentinel | SIEM | Threat Detection | Incident Response
-Project Link: https:https://github.com/MartinAmofaBoadu/Microsoft-Sentinel-SOC-SIEM-Hands-On-Project/tree/main
 
 Developed a hands-on Microsoft Sentinel lab project to showcase practical SOC and SIEM skills in a cloud security environment. Configured data ingestion, explored logs, created detection rules, investigated alerts and incidents, performed KQL-based threat hunting, and documented the workflow in a clear, portfolio-ready format. This project reflects my ability to work with Microsoft security tools and apply security monitoring and incident response concepts in a structured, real-world scenario.
 
